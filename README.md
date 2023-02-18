@@ -10,3 +10,6 @@ If in a rush you can just check the code and the images above without downloadin
 
 Opening or running the .pde file (the game) on your computer may require the download of the Processing engine
 You can download it here: https://processing.org/
+
+You can also check the itch.io submission for this as well:
+https://antman1337.itch.io/bullet-hell-project
