@@ -8,5 +8,3 @@ but instead I made this full on Bullet Hell game (with the teachers permission o
 
 Opening the .pde file on your computer may require the download of the Processing engine
 You can download it here: https://processing.org/
-
-If you want to play the game, I have attached a playable game file under...
